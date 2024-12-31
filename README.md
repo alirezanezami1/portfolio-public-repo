@@ -1,7 +1,9 @@
 # Portfolio
 
+
 Personal website (SSR) built for an SEO expert with nuxt and tailwind
 
+``This repository is created for a project that is currently in private mode, and the link will be placed after hosting``
 
 
   <img src="/assets/8.jpg" style="width:250px">
