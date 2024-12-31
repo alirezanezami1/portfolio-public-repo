@@ -47,6 +47,13 @@ Personal website (SSR) built for an SEO expert with nuxt and tailwind
   <img src="https://github.com/user-attachments/assets/632ced66-a175-4192-86b6-bdbd34d0d804">
 </details>
 
+<br><br>
+## Screenshots - (modals)
+<details>
+  <summary style="font-size: 50px">see img</summary>
+  <img src="https://github.com/user-attachments/assets/c84f34ac-4ea1-4f72-bd6c-e75809800592">
+</details>
+
 <br>
 
 ## Color Reference
