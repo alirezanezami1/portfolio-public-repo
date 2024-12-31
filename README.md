@@ -51,7 +51,12 @@ Personal website (SSR) built for an SEO expert with nuxt and tailwind
 ## Screenshots - (modals)
 <details>
   <summary style="font-size: 50px">see img</summary>
-  <img src="https://github.com/user-attachments/assets/c84f34ac-4ea1-4f72-bd6c-e75809800592">
+  <img src="https://github.com/user-attachments/assets/608d6e75-9ff6-4162-9f72-f80177f3444a">
+  <img src="https://github.com/user-attachments/assets/00b86b7c-6442-4d84-8172-170cde0d3358">
+  <img src="https://github.com/user-attachments/assets/b60507a2-d283-40d8-a5a9-2de300c61aa9">
+  <img src="https://github.com/user-attachments/assets/99d3b0e5-ca75-4ac8-8abd-51fffd7a17d3">
+  <img src="https://github.com/user-attachments/assets/caea0919-d0c6-43e0-9acf-19fc962a6dd0">
+  <img src="https://github.com/user-attachments/assets/528f65dd-0dea-490d-87f9-81eba8763445">
 </details>
 
 <br>
@@ -76,6 +81,8 @@ Personal website (SSR) built for an SEO expert with nuxt and tailwind
 
 
 ## Run Locally
+
+> This project is currently private.
 
 Clone the project
 
